@@ -10,4 +10,10 @@ class PagesController < ApplicationController
 
   def explore
   end
+
+  def help
+  end
+
+  def settings
+  end
 end
